@@ -113,6 +113,12 @@ id="personaladdress" size="30"></td>
 <td>MobileNo</td>
 <td><input type="text" name="mobileno" id="mobileno" size="30"></td>
 </tr>
+	
+<tr>
+<td>Manager</td>
+<td><input type="text" name="manager" id="manager" size="30"></td>
+</tr>
+	
 <tr>
 <td><input type="reset"></td>
 <td colspan="2"><input type="submit" value="Submit Form" /></td>
