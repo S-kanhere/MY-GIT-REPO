@@ -1,0 +1,185 @@
+[33mcommit 5af33c8edfc9891dd22d7d990dcb1458fae4424a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: EC2 Default User <ec2-user@ip-172-31-86-74.ec2.internal>
+Date:   Wed Feb 3 03:24:54 2021 +0000
+
+    changed the index file
+
+[33mcommit db1df01ed9874b5106178dc1e73a57421aa4a53d[m
+Author: EC2 Default User <ec2-user@ip-172-31-86-74.ec2.internal>
+Date:   Wed Feb 3 02:58:15 2021 +0000
+
+    updated pom
+
+[33mcommit 075b13d81e104c476d175c238b912f119663faa6[m
+Author: EC2 Default User <ec2-user@ip-172-31-86-74.ec2.internal>
+Date:   Wed Feb 3 02:55:27 2021 +0000
+
+    updated pom
+
+[33mcommit 87e47e6f013cfbae835e86fec368474a497da415[m
+Author: EC2 Default User <ec2-user@ip-172-31-30-122.ec2.internal>
+Date:   Thu Jan 7 04:29:26 2021 +0000
+
+    added playbook
+
+[33mcommit d6b605cd4fe0ab147669e517049b9ebcf48f4ee2[m
+Author: EC2 Default User <ec2-user@ip-172-31-24-50.ec2.internal>
+Date:   Mon Dec 28 03:10:57 2020 +0000
+
+    updates on main page
+
+[33mcommit ab86db2df6eadd4d13bc2bf696d1fb84b2916399[m
+Author: sonasonaram <51561654+sonasonaram@users.noreply.github.com>
+Date:   Mon Dec 28 08:27:29 2020 +0530
+
+    Update pom.xml
+
+[33mcommit 808ff33059f167c34841773ea0d8a521869b3a20[m
+Author: EC2 Default User <ec2-user@ip-172-31-52-118.ec2.internal>
+Date:   Thu Dec 17 03:11:57 2020 +0000
+
+    messing pom
+
+[33mcommit 8ac5e32e2068a9201e7f0925691fefbc58c2cc42[m
+Author: EC2 Default User <ec2-user@ip-172-31-52-118.ec2.internal>
+Date:   Thu Dec 17 03:05:57 2020 +0000
+
+    useless readme
+
+[33mcommit 4f0721cb79f8f04f3cdeb1c912c4ebd86bf283d7[m
+Author: EC2 Default User <ec2-user@ip-172-31-85-209.ec2.internal>
+Date:   Thu Oct 15 03:26:39 2020 +0000
+
+    updated index file
+
+[33mcommit acf14593ddd20093973f0ee2e8b88c1234bba3f2[m
+Author: EC2 Default User <ec2-user@ip-172-31-21-61.ec2.internal>
+Date:   Thu Oct 8 03:25:53 2020 +0000
+
+    changed pom
+
+[33mcommit e25bb8678cab11e5db4ccfbf304b9bbd81a5e1c2[m
+Author: sonasonaram <51561654+sonasonaram@users.noreply.github.com>
+Date:   Thu Oct 8 08:50:59 2020 +0530
+
+    Update pom.xml
+
+[33mcommit 58563136b1184c674e08b2a7f97675ccc8399bb4[m
+Author: sonasonaram <51561654+sonasonaram@users.noreply.github.com>
+Date:   Thu Oct 8 08:36:47 2020 +0530
+
+    Update pom.xml
+
+[33mcommit e5d919be05b1ba6718253890c219a60cb722ac69[m
+Author: EC2 Default User <ec2-user@ip-172-31-60-201.ec2.internal>
+Date:   Thu Sep 24 16:02:18 2020 +0000
+
+    changing index jsp
+
+[33mcommit c7b475f0de533ae6dc4fc2b85e23f9fe0a7416c2[m
+Author: EC2 Default User <ec2-user@ip-172-31-60-201.ec2.internal>
+Date:   Thu Sep 24 15:46:49 2020 +0000
+
+    corrected pom
+
+[33mcommit f5a993eba42ab07d648f207b01a1234cac0a6bd3[m
+Author: EC2 Default User <ec2-user@ip-172-31-38-198.ec2.internal>
+Date:   Wed Sep 16 15:48:29 2020 +0000
+
+    messed up the pom
+
+[33mcommit f2dbbcfaea81fa5b452d59bd6e94814f8ea1b8fe[m
+Author: EC2 Default User <ec2-user@ip-172-31-38-198.ec2.internal>
+Date:   Wed Sep 16 15:29:22 2020 +0000
+
+    updating the Build Name in pom
+
+[33mcommit ba85d6b126f374065c3136a8fe450421edb67a45[m
+Author: EC2 Default User <ec2-user@ip-172-31-38-198.ec2.internal>
+Date:   Wed Sep 16 14:47:54 2020 +0000
+
+    deleted the target stuffs
+
+[33mcommit 66f7fd25e8ae6aecbd0c253a91f08db5a02b4866[m
+Author: EC2 Default User <ec2-user@ip-172-31-53-115.ec2.internal>
+Date:   Thu Jul 30 15:24:00 2020 +0000
+
+    updated index
+
+[33mcommit 0b2efc2a5f6635e58c182d3d792b23ae4de277cf[m
+Author: EC2 Default User <ec2-user@ip-172-31-53-115.ec2.internal>
+Date:   Thu Jul 30 15:18:38 2020 +0000
+
+    updated index.jsp
+
+[33mcommit ec6343e32d8a91f6f8809daf8437ff2c22aff316[m
+Author: EC2 Default User <ec2-user@ip-172-31-59-252.ec2.internal>
+Date:   Thu Jul 30 04:24:41 2020 +0000
+
+    updated index
+
+[33mcommit 119ff7ab6faef45e2eb2b60d9d50f3af7cd8fc1e[m
+Author: EC2 Default User <ec2-user@ip-172-31-33-249.ec2.internal>
+Date:   Thu Jul 23 15:07:02 2020 +0000
+
+    pom update
+
+[33mcommit a34e5d40d54f79a3abb94898832563820b5eab88[m
+Author: EC2 Default User <ec2-user@ip-172-31-38-0.ec2.internal>
+Date:   Thu Jul 23 04:51:36 2020 +0000
+
+    updated the index file
+
+[33mcommit fbe4a3ceb6a0a3831411921ed1f3e0496a14fcfe[m
+Author: EC2 Default User <ec2-user@ip-172-31-38-0.ec2.internal>
+Date:   Thu Jul 23 04:24:51 2020 +0000
+
+    Restoring pom
+
+[33mcommit b4c715074405d8ada1756996ae5215464216de2c[m
+Author: sonasonaram <51561654+sonasonaram@users.noreply.github.com>
+Date:   Thu Jul 23 09:41:57 2020 +0530
+
+    Update pom.xml
+
+[33mcommit 1407357630445b2f3e5fa6e627755188eeb93ecf[m
+Author: sonasonaram <51561654+sonasonaram@users.noreply.github.com>
+Date:   Thu May 28 10:22:28 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 301036b0721fba44ade95e81bce034c09453d120[m
+Author: EC2 Default User <ec2-user@ip-172-31-84-247.ec2.internal>
+Date:   Mon May 18 04:54:05 2020 +0000
+
+    updated index.jsp from git
+
+[33mcommit caa96e21ab255d67f7c8ea62d87f781bb0ae26a5[m
+Author: sonasonaram <51561654+sonasonaram@users.noreply.github.com>
+Date:   Wed May 13 09:45:57 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 93b8cfbf1c76ca5b49d86f51390c2f80d9111acf[m
+Author: sonasonaram <51561654+sonasonaram@users.noreply.github.com>
+Date:   Thu Apr 16 09:01:42 2020 +0530
+
+    Create Dockerfile
+
+[33mcommit cd8cfa3d9c0b7ca836b44ebbd06e3f521b3cdc4b[m
+Author: sonasonaram <51561654+sonasonaram@users.noreply.github.com>
+Date:   Mon Apr 13 08:45:31 2020 +0530
+
+    Update index.jsp
+
+[33mcommit 64d751a6830939bc12bba721b4f34f92eb26f222[m
+Author: sonasonaram <51561654+sonasonaram@users.noreply.github.com>
+Date:   Sat Apr 11 15:30:57 2020 +0530
+
+    Update pom.xml
+
+[33mcommit 1d91563f25e7afe7b689295615bb524e019a6343[m
+Author: sonasonaram <51561654+sonasonaram@users.noreply.github.com>
+Date:   Sat Apr 11 15:25:14 2020 +0530
+
+    Add files via upload
